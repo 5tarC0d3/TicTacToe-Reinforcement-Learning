@@ -4,7 +4,8 @@
 #include <vector>
 #include <string>
 
-class Board {
+class Board
+{
 public:
     std::map<int, std::string> board;
 
